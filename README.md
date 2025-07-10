@@ -19,9 +19,6 @@
 - 📧 Business Inquiries: ashimzwork1@gmail.com  
 - 📸 Instagram: [@adk.ashim](https://www.instagram.com/adk.ashim/)
 
-## 📊 GitHub Stats
-![Ashim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshimADK&show_icons=true&theme=radical)
-
 <!--
 **Ashim0902/Ashim0902** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
