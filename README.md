@@ -1,26 +1,42 @@
 # 👋 Hi, I'm Ashim ADK
 
-💻 Passionate Developer | 🚀 Tech Enthusiast | 🇳🇵 Based in Pokhara, Nepal
+💻 Passionate Developer | 🚀 Tech Enthusiast  
+🌍 Based in Pokhara, Nepal  
+✉️ Contact me: [ashimzwork1@gmail.com](mailto:ashimzwork1@gmail.com)  
+🧠 Currently learning: Node.js, Express, MongoDB
 
-## 🚀 What I Do
-- 🛒 Founder of **ByteBajar** – a tech e-commerce platform
-- 🍽️ Developing a modern **React-based food ordering website**
-- 🔐 Implementing **JWT authentication**, **MongoDB**, and **dynamic routing**
-- 💼 Freelance IT support for **SS Tech**
+---
 
-## 🧰 Tech Stack
-- **Frontend**: React.js, Tailwind CSS, Framer Motion  
-- **Backend**: Node.js, Express, MongoDB, JWT  
-- **Tools**: VS Code, GitHub, Postman, Figma
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimzwork1@gmail.com)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nQsUvy9D)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adk.ashim/)
 
-## 📬 Stay Connected
-- 🎮 Gaming Channel: [@Ashimz-Adk](https://www.youtube.com/@Ashimz-Adk)
-- 💬 Join My Discord: [discord.gg/nQsUvy9D](https://discord.gg/nQsUvy9D)
-- 📧 Business Inquiries: ashimzwork1@gmail.com  
-- 📸 Instagram: [@adk.ashim](https://www.instagram.com/adk.ashim/)
+![Visitor Badge](https://komarev.com/ghpvc/?username=AshimADK&label=Profile+Views&color=0e75b6&style=flat)
 
-<!--
-**Ashim0902/Ashim0902** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-You can use this space to introduce yourself and your work. Add links, stats, and anything else you want people to know!
--->
+## 🛠️ Languages and Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+
+## 🔥 My GitHub Streak
+[![Ashim's GitHub Streak](https://streak-stats.demolab.com?user=AshimADK&theme=radical&border_radius=5)](https://git.io/streak-stats)
+
+---
+
+## 🍃 Check Out My Work
+- 🛒 ByteBajar – Tech E-commerce Platform  
+- 🍽️ Food Ordering Website (React + MongoDB)
+
