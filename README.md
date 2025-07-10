@@ -27,11 +27,6 @@
 
 ---
 
-## 🔥 My GitHub Streak
-[![Ashim's GitHub Streak](https://streak-stats.demolab.com?user=AshimADK&theme=radical&border_radius=5)](https://git.io/streak-stats)
-
----
-
 ## 🍃 Check Out My Work
 - 🛒 ByteBajar – Tech E-commerce Platform  
 - 🍽️ Food Ordering Website (React + MongoDB)
