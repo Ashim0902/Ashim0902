@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimzwork1@gmail.com)  
+[![Gmail](https://img.shields.io/badge/ashimzwork1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimzwork1@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nQsUvy9D)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adk.ashim/)
 
